@@ -329,6 +329,12 @@ Experimental results demonstrated that:
 Overall, the study shows that textual content plays a major role in fake news detection and that NLP techniques can successfully classify fake and real news articles with high accuracy.
 
 ---
+## Report
+
+Detailed technical report can be found here:
+
+[Project Report](report/Fake_News_Detection_Report.pdf)
+---
 
 # Author
 
