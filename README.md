@@ -331,9 +331,9 @@ Overall, the study shows that textual content plays a major role in fake news de
 ---
 ## Report
 
-Detailed technical report can be found here:
+Detailed technical report can be found in the repo:
 
-[Project Report](report/Fake_News_Detection_Report.pdf)
+
 ---
 
 # Author
